@@ -1,4 +1,4 @@
-# title
+# ColabFold PepPI files
 
 Repo to store files (code + images + misc.) for my project of using ColabFold v1.5.2 for PepPI prediction.
 
