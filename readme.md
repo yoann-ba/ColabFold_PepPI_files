@@ -2,9 +2,9 @@
 
 Repo to store files (code + images + misc.) for my project of using ColabFold v1.5.2 for PepPI prediction.
 
-Paper : [link coming]
-Supplementary : [link coming]
-Video : [not made yet]
+- Paper : [link coming]
+- Supplementary : [link coming]
+- Video : [not made yet]
 
 ----
 
