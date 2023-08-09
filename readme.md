@@ -29,7 +29,7 @@ ColabFold 1.5, based on AlphaFold-Multimer v3, allows for fast and precise trans
 
 If you find this work useful, please consider citing:
 
-    @article{ColabFold_PepPI,
+    @article{ColabFold_PepPI
 	author = {Battu, Yoann}, 
 	title = {Fast and precise PepPI predictions with ColabFold 1.5 and AlphaFold-Multimer v3}, 
 	journal = {Preprint}, 
