@@ -37,3 +37,5 @@ If you find this work useful, please consider citing:
     }
 
 Or looking at this work's references at the end of the main pdf.
+
+Huge thanks to the ColabFold team for their effort in assisting people and discussing updates in their [GitHub page](https://github.com/sokrypton/ColabFold) and on their discord server.
