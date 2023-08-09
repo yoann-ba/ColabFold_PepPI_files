@@ -1,6 +1,4 @@
-# title
-
-Confidence plots and ROC-PRC plots for all single features
+# Confidence plots and ROC-PRC plots for all single features
 
 confidence_graph : 
 - X axis : distance between data points and the decision threshold

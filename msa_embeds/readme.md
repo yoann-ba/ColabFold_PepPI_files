@@ -1,6 +1,4 @@
-# title
-
-Plots related to the MSA embeddings-based features.
+# Plots related to the MSA embeddings-based features.
 
 - vs_interaction_label : plotted against the PepPI interaction label (Positive/Negative)
 - vs_success : plotted against the TP, FP, TN, FN of the transfer prediction (of the best model applied on inference over the entire dataset)
