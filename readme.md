@@ -1,8 +1,8 @@
 # ColabFold PepPI files
 
-Repository to store files (code + images + misc.) for my project of using ColabFold v1.5.2 for PepPI prediction titled "Fast and precise PepPI predictions with ColabFold 1.5 and AlphaFold-Multimer v3".
+Repository to store files (code + images + misc.) for my project+article of using ColabFold v1.5.2 for PepPI prediction titled "Fast and precise PepPI predictions with ColabFold 1.5 and AlphaFold-Multimer v3".
 
-- Paper : pdf in this repo, or [Google Drive Link to Paper](https://drive.google.com/file/d/1Xpoc-DleggcrFVOVCe4rxhqbAIQGe7Mm/view?usp=sharing)
+- "Paper"/Article : pdf in this repo, or [Google Drive Link to Paper](https://drive.google.com/file/d/1Xpoc-DleggcrFVOVCe4rxhqbAIQGe7Mm/view?usp=sharing)
 - Supplementary : pdf in this repo or [Google Drive Link to Supplementary](https://drive.google.com/file/d/19R4bybsyg4HVCO0euEBLGTgZEeiiv2nv/view?usp=sharing)
 - Video : [not made yet]
 
